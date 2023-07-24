@@ -1,0 +1,2 @@
+#Calculator Locators
+stabdardButton= "Standard"
